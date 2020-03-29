@@ -26,8 +26,6 @@ function LeftImage() {
 	if (imagevar == 1)
 	{
 		currentImage.src = firstimage;
-		currentImage.style.height = "401px";
-		currentImage.style.width = "600px";
 		Imagedescription.innerHTML = "Chi non vorrebbe vivere la propria storia nella spiaggia di Vaadhoo?";
 	}
 }
@@ -40,8 +38,6 @@ function RightImage() {
 	if (imagevar == 2)
 	{
 		currentImage.src = secondimage;
-		currentImage.style.height = "402px";
-		currentImage.style.width = "600px";
 		Imagedescription.innerHTML = "Il tempio di Vaithiswarankoil, dove poter trovare il destino";
 	}
 }
