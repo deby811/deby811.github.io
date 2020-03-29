@@ -3,8 +3,8 @@ mchanged = "false";
 currentImage = document.getElementById("CurrentImage");
 Imagedescription = document.getElementById("desc");
 imagevar = 1;
-firstimage = "imageDiv/vaadhoo.jpg";
-secondimage = "imageDiv/tempio.jpg";
+firstimage = "vaadhoo.jpg";
+secondimage = "tempio.jpg";
 
 function OpenMenuTab(mx) {
   if (mchanged == "true") {
